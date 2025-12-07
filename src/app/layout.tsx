@@ -14,7 +14,15 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Billions",
-  description: "Gestão Financeira",
+  description: "Gestão completa de receitas, despesas e investimentos",
+  icons: {
+    icon: [
+      { url: '/billion.avif', type: 'image/avif' },
+    ],
+    apple: [
+      { url: '/billion.avif', type: 'image/avif' },
+    ],
+  },
 };
 
 export default function RootLayout({
@@ -23,7 +31,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="pt-BR">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
