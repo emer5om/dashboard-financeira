@@ -1,0 +1,45 @@
+[
+  {
+    "id": "2025-12-01",
+    "date": "2025-12-01",
+    "adsCost": 1500,
+    "toolsCost": 0,
+    "revenue": 150,
+    "note": "início campanha"
+  },
+  {
+    "id": "2025-12-02",
+    "date": "2025-12-02",
+    "adsCost": 300,
+    "toolsCost": 80,
+    "revenue": 1200
+  },
+  {
+    "id": "2025-12-03",
+    "date": "2025-12-03",
+    "adsCost": 500,
+    "toolsCost": 50,
+    "revenue": 400
+  },
+  {
+    "id": "2025-12-05",
+    "date": "2025-12-05",
+    "adsCost": 800,
+    "toolsCost": 100,
+    "revenue": 1500
+  },
+  {
+    "id": "2025-12-06",
+    "date": "2025-12-06",
+    "adsCost": 1200,
+    "toolsCost": 50,
+    "revenue": 900
+  },
+  {
+    "id": "2025-12-07",
+    "date": "2025-12-07",
+    "adsCost": 550,
+    "toolsCost": 0,
+    "revenue": 600
+  }
+]

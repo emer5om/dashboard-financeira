@@ -1,0 +1,44 @@
+[
+  {
+    "id": "2025-12-07-1765086728771-shrtlsmc8",
+    "date": "2025-12-07",
+    "type": "expense",
+    "amount": 150,
+    "category": "Hospedagem",
+    "createdAt": "2025-12-07T05:52:08.771Z"
+  },
+  {
+    "id": "2025-12-07-1765086693518-esjasl2ms",
+    "date": "2025-12-07",
+    "type": "ads",
+    "amount": 550,
+    "createdAt": "2025-12-07T05:51:33.518Z"
+  },
+  {
+    "id": "2025-12-06-1733457800000-pqr678",
+    "date": "2025-12-06",
+    "type": "expense",
+    "amount": 150,
+    "category": "Hospedagem",
+    "note": "Servidor",
+    "createdAt": "2025-12-06T05:02:00.000Z"
+  },
+  {
+    "id": "2025-12-06-1733457700000-mno345",
+    "date": "2025-12-06",
+    "type": "ads",
+    "amount": 650,
+    "category": "Facebook Ads",
+    "note": "Campanha de engajamento",
+    "createdAt": "2025-12-06T05:01:00.000Z"
+  },
+  {
+    "id": "2025-12-06-1733457600000-jkl012",
+    "date": "2025-12-06",
+    "type": "revenue",
+    "amount": 4200,
+    "category": "Vendas Online",
+    "note": "Vendas do dia anterior",
+    "createdAt": "2025-12-06T05:00:00.000Z"
+  }
+]
